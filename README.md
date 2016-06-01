@@ -1,4 +1,4 @@
 # Guías rápidas
 
-* Trello
-* Twitter
+* [Trello](trello/index.md)
+* [Twitter](twitter/index.md)
