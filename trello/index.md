@@ -31,5 +31,15 @@ decide qué listas crear y qué tarjetas dentro de cada lista.
 
 ## Pasos a seguir para participar
 
+* Haz primero un [paseo rápido](https://trello.com/tour) por sus características principales
+* Crea una cuenta en Trello o usa tu cuenta Google (recomendado si la tienes)
+* Familiarízate con Trello. Prueba a crear tableros, listas, tarjetas, arrastra y suelta listas o tarjetas, etc.
+* Mira algún [videotutorial](https://youtu.be/2lFY7E_bLvg)
+* Visita la [ayuda de Trello](http://help.trello.com/)
+* Escoge uno o varios tableros de APICV en los que participar (aunque puedes empezar sin estar en ninguno)
+* Envía un correo a trello@apicv.es para que incluyamos tu usuario Trello en el equipo
+ 
+Hay más recursos sobre Trello (en inglés): [Trello Resources](https://trello.com/b/nPNSBZjB)
+
 ## Relación con Moodle
 
