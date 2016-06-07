@@ -29,17 +29,17 @@ Dada esta gran flexibilidad, es normal tener dudas sobre cómo estructurar las
 tareas. En APICV hemos creado un tablero por cada grupo de interés. Cada grupo
 decide qué listas crear y qué tarjetas dentro de cada lista.
 
-En cualquier momento, un miembro del equipo puede ver los cambios y ayudar
-puntualmente o proponer algún cambio con un comentario en una tarjeta, etc.
+En cualquier momento, un miembro del equipo puede ayudar puntualmente o proponer
+algún cambio con un comentario en una tarjeta, etc. *Tota pedra fa paret*
 
 ## Pasos recomendados para participar
 
 * Haz primero un [paseo rápido](https://trello.com/tour) por sus características principales
-* [Crea una cuenta](https://trello.com/signup) en Trello (o usa tu cuenta Google si la tienes)
+* [Crea una cuenta](https://trello.com/signup) en Trello (*o usa tu cuenta Google si la tienes*)
 * Familiarízate con Trello. Prueba a crear tableros, listas, tarjetas, arrastra y suelta listas o tarjetas, etc.
 * Mira algún [videotutorial](https://youtu.be/2lFY7E_bLvg)
 * Visita la [ayuda de Trello](http://help.trello.com/)
-* Escoge uno o varios tableros de APICV en los que participar (aunque puedes empezar sin estar en ninguno)
+* Escoge uno o varios tableros de APICV en los que participar (*aunque puedes empezar sin estar en ninguno*)
 * Puedes también probar la funcionalidad de la versión para móvil [[Android](https://play.google.com/store/apps/details?id=com.trello)] [[iPhone y iPad](https://itunes.apple.com/app/trello-organize-anything/id461504587)]
 * Envía un correo a trello@apicv.es para que incluyamos tu usuario Trello en el equipo
 * Una vez dentro:
