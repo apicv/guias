@@ -49,7 +49,10 @@ algún cambio con un comentario en una tarjeta, etc. *Tota pedra fa paret*
   * **propón ideas** o **tareas** mediante una tarjeta en la lista que creas conveniente (*siempre se puede mover*)
   * **haz comentarios**, da tu opinión
  
-Hay más recursos sobre Trello (en inglés): [Trello Resources](https://trello.com/b/nPNSBZjB)
+Hay más recursos sobre Trello (en inglés):
+
+* [Trello Resources](https://trello.com/b/nPNSBZjB)
+* Using Trello like a pro (series): [1](http://blog.trello.com/how-to-use-trello-like-a-pro/), [2](http://blog.trello.com/using-trello-like-a-pro-part-2/) y [3](http://blog.trello.com/using-trello-like-a-pro-part-3/)
 
 ## Relación con Moodle
 
