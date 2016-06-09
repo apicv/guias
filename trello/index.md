@@ -40,11 +40,11 @@ algún cambio con un comentario en una tarjeta, etc. *Tota pedra fa paret*
 
 * Haz primero un [paseo rápido](https://trello.com/tour) por sus características principales
 * [Crea una cuenta](https://trello.com/signup) en Trello (*o usa tu cuenta Google si la tienes*)
-* Familiarízate con Trello. Prueba a crear tableros, listas, tarjetas, arrastra y suelta listas o tarjetas, utiliza [atajos de teclado](https://trello.com/shortcuts), etc.
+* Familiarízate con Trello. Prueba a crear tableros, listas, tarjetas, arrastra y suelta listas o tarjetas, utiliza [atajos de teclado](https://trello.com/shortcuts), [usa Trello como un profesional](http://help.trello.com/article/734-how-to-use-trello-like-a-pro), etc.
 * Mira algún [videotutorial](https://youtu.be/2lFY7E_bLvg)
 * Visita la [ayuda de Trello](http://help.trello.com/)
 * Escoge uno o varios tableros de APICV en los que participar (*aunque puedes empezar sin estar en ninguno*)
-* Puedes también probar la funcionalidad de la versión para móvil [[Android](https://play.google.com/store/apps/details?id=com.trello)] [[iPhone y iPad](https://itunes.apple.com/app/trello-organize-anything/id461504587)]
+* Puedes también probar la funcionalidad de la versión para móvil [[Android](https://play.google.com/store/apps/details?id=com.trello)] [[iPhone y iPad](https://itunes.apple.com/app/trello-organize-anything/id461504587)] y la [extensión para Google Chrome](https://chrome.google.com/webstore/detail/trello/dmdidbedhnbabookbkpkgomahnocimke)
 * Envía un correo a trello@apicv.es para que incluyamos tu usuario Trello en el equipo
 * Una vez dentro:
 
@@ -57,6 +57,7 @@ Hay más recursos sobre Trello (en inglés):
 
 * [Trello Resources](https://trello.com/b/nPNSBZjB)
 * Using Trello like a pro (series): [1](http://blog.trello.com/how-to-use-trello-like-a-pro/), [2](http://blog.trello.com/using-trello-like-a-pro-part-2/) y [3](http://blog.trello.com/using-trello-like-a-pro-part-3/)
+* 
 
 ## Relación con Moodle
 
