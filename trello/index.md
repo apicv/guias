@@ -19,11 +19,15 @@ proceso* y *Hecho*. Esta división se basa en la metodología
 [Kanban](https://es.wikipedia.org/wiki/Kanban) pero no estás obligado a
 seguirla.
 * **tarjeta**: en cada lista puedes crear las tarjetas que te parezcan necesarias.
- Cada tarjeta se suele asociar a una tarea concreta y tiene la posibilidad de
-incluir varios contenidos: comentarios, usuarios asignados, listas de
-comprobación (*checklists* en inglés), anexos, etc. Cada tarjeta se puede
-etiquetar con un código de colores y cada color puede tener una leyenda que
-definamos.
+ Cada tarjeta se suele asociar a una tarea o idea concreta y tiene la posibilidad de:
+
+  * escribir comentarios donde puedes mencionar a colaboradores (si pones la '@' delante de su nombre, le llegará un aviso)
+  * asignar miembros
+  * incluir listas de comprobación (*checklists*)
+  * adjuntar archivos
+  * etiquetar (con color y una leyenda opcional que podemos definir)
+  * definir una fecha de vencimiento (conectable a un calendario externo)
+  * mover, copiar, suscribirse a los eventos, archivar (e incluso eliminar) la tarjeta
 
 Dada esta gran flexibilidad, es normal tener dudas sobre cómo estructurar las
 tareas. En APICV hemos creado un tablero por cada grupo de interés. Cada grupo
@@ -36,7 +40,7 @@ algún cambio con un comentario en una tarjeta, etc. *Tota pedra fa paret*
 
 * Haz primero un [paseo rápido](https://trello.com/tour) por sus características principales
 * [Crea una cuenta](https://trello.com/signup) en Trello (*o usa tu cuenta Google si la tienes*)
-* Familiarízate con Trello. Prueba a crear tableros, listas, tarjetas, arrastra y suelta listas o tarjetas, etc.
+* Familiarízate con Trello. Prueba a crear tableros, listas, tarjetas, arrastra y suelta listas o tarjetas, utiliza [atajos de teclado](https://trello.com/shortcuts), etc.
 * Mira algún [videotutorial](https://youtu.be/2lFY7E_bLvg)
 * Visita la [ayuda de Trello](http://help.trello.com/)
 * Escoge uno o varios tableros de APICV en los que participar (*aunque puedes empezar sin estar en ninguno*)
