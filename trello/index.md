@@ -57,7 +57,15 @@ Hay más recursos sobre Trello (en inglés):
 
 * [Trello Resources](https://trello.com/b/nPNSBZjB)
 * Using Trello like a pro (series): [1](http://blog.trello.com/how-to-use-trello-like-a-pro/), [2](http://blog.trello.com/using-trello-like-a-pro-part-2/) y [3](http://blog.trello.com/using-trello-like-a-pro-part-3/)
-* 
+* [Organizing And Prioritizing With Labels](http://blog.trello.com/taco-tuesdays-learning-to-love-labels/)
+* [Best Practices For Setting Up Effective Trello Boards](http://blog.trello.com/trello-board-best-practices/)
+* [The Big 6: Essential Trello Boards For Every Business](http://blog.trello.com/essential-trello-boards-for-every-business/)
+* De paso, para usar en el aula:
+
+  * [Teachers Using Trello: How To Foster Genius In The Classroom](http://blog.trello.com/teachers-using-trello-how-to-foster-genius-in-the-classroom/)
+  * [Curriculums, Collaboration, And Reinventing The Classroom](http://blog.trello.com/curriculums-collaboration-and-reinventing-the-classroom/)
+  * [Collaborative Learning Environments: Setting The Standards With Trello](http://blog.trello.com/collaborative-learning-environments-setting-the-standards-with-trello/)
+  * [Project Based Learning With Trello And Project Lead The Way](http://blog.trello.com/project-based-learning-with-project-lead-the-way/)
 
 ## Relación con Moodle
 
