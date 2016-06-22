@@ -69,3 +69,8 @@ Hay más recursos sobre Trello (en inglés):
 
 ## Relación con Moodle
 
+APICV tiene su Moodle instalado en http://colaboratorio.apicv.es/
+
+En principio, estamos relacionando un curso Moodle con cada grupo de interés en Trello. Por ejemplo, el tablero de Coordinación TIC se asocia con el curso Coordinación TIC del [colaboratorio](http://colaboratorio.apicv.es/).
+
+Si se considera pertinente por el grupo de interés, podría crearse un curso para una tarea más concreta dentro de un tablero. De momento, evitemos que esto suceda.
