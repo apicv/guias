@@ -10,3 +10,13 @@
 * Ya puedes crear tu [pull request](https://help.github.com/articles/creating-a-pull-request/)
 * Sólo te queda esperar a la revisión de los propietarios del repositorio
 * Una vez integrados los cambios, puedes borrar tu *branch* o el *fork* entero
+
+## Cómo sincronizar tu *fork* con el repositorio original (*upstream*)
+(es necesario tener instalado git; todas las operaciones se hacen desde consola; suponemos por defecto que sincronizamos la rama *master*)
+
+* Clonar tu *fork* en el disco duro: $ git clone https://github.com/tu_usuario/repositorio.git
+* Añadir a la lista de repositorios remotos la dirección de *upstream*: $ git remote add upstream https://github.com/usuario_upstream/repositorio.git
+* Descargar los cambios de *upstream*: $ git fetch upstream
+* Cambiar a la rama *master* si no estabas ya: $ git checkout master
+* Aplicar los cambios que vienen de *upstream*: $ git merge upstream/master
+* Enviar los cambios a tu *fork* en GitHub: $ git push
