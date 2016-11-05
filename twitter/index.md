@@ -14,6 +14,7 @@ Si has respondido afirmativamente a alguna de las anteriores preguntas, vamos a 
 * [Centro de ayuda de Twitter](https://support.twitter.com/)
 * [Twitter for Teachers: A Guide for Beginners](http://www.creativeeducation.co.uk/blog/twitter-for-teachers-a-guide-for-beginners/)
 * [Social Media for Teachers: Guides, Resources, and Ideas](https://www.edutopia.org/blog/social-media-resources-educators-matt-davis)
+* [A Parent's Guide to Twitter and Education](https://www.edutopia.org/blog/twitter-education-parents-joe-mazza)
 
 ## Listas de @apicv
 
