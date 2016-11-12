@@ -7,3 +7,4 @@ Colección de guías de interés para colaborar y participar con APICV. Escritas
 * [Twitter](twitter/index.md)
 * [Telegram](telegram/index.md)
 * [GitHub](github/index.md)
+* [Youtube](youtube/index.md)
