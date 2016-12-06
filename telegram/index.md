@@ -10,7 +10,7 @@ con enfoque en la seguridad y velocidad.
 Comparado con WhatsApp, tiene las siguientes ventajas:
 
 * Grupos (de hasta 5.000 miembros)
-* Canales
+* Canales (difusión unidireccional, miembros ilimitados)
 * Bots
 
 ### Instalación
