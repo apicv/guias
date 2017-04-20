@@ -3,7 +3,8 @@
 ## Enlaces externos sobre git y GitHub
 
 * [git - la guía sencilla](http://rogerdudler.github.io/git-guide/index.es.html)
-* [introducción a github (inglés)](https://guides.github.com/activities/hello-world/)
+* [Introduction to GitHub](https://services.github.com/on-demand/intro-to-github/) (en inglés)
+* [Hello World](https://guides.github.com/activities/hello-world/) (en inglés) forma parte de [GitHub Guides](https://guides.github.com/)
 
 ## Cómo proponer un cambio (*pull request*)
 (no es necesario usar git en tu ordenador; todo esto se puede hacer desde la interfaz web de GitHub)
