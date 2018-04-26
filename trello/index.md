@@ -39,6 +39,7 @@ algún cambio con un comentario en una tarjeta, etc. *Tota pedra fa paret*
 ## Pasos recomendados para participar
 
 * Haz primero un [paseo rápido](https://trello.com/tour) por sus características principales
+* [Introducción a Trello](https://trello.com/guide)
 * [Crea una cuenta](https://trello.com/signup) en Trello (*o usa tu cuenta Google si la tienes*)
 * Familiarízate con Trello. Prueba a crear tableros, listas, tarjetas, arrastra y suelta listas o tarjetas, utiliza [atajos de teclado](https://trello.com/shortcuts), [usa Trello como un profesional](http://help.trello.com/article/734-how-to-use-trello-like-a-pro), etc.
 * Mira algún [videotutorial](https://youtu.be/2lFY7E_bLvg)
