@@ -1,4 +1,4 @@
-# Guía para Telegram
+# Guía para usar Telegram
 
 ## Qué es Telegram
 
@@ -9,9 +9,12 @@ con enfoque en la seguridad y velocidad.
 
 Comparado con WhatsApp, tiene las siguientes ventajas:
 
-* Grupos (de hasta 5.000 miembros)
-* Canales (difusión unidireccional, miembros ilimitados)
-* Bots
+* Grupos (de hasta 5.000 miembros) públicos y privados
+* Canales (difusión unidireccional, miembros ilimitados) públicos y privados
+* Bots (para valorar mensajes, hacer votaciones, y un largo etc.)
+* No es necesario dar tu nº de móvil a terceros para participar en conversaciones (te puedes definir un nombre de usuario)
+* Puedes editar tus mensajes durante las primeras 48 horas
+* Conversaciones opcionales encriptadas de extremo a extremo y con caducidad configurable (autodestrucción)
 
 ### Instalación
 
